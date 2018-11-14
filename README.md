@@ -56,11 +56,11 @@ Y ahora, sin mucho más que agregar:
   - Conocer posicionamiento de alto nivel y estar en la posición ideal es genial si tu equipo lo hace también. No obstante, si todo tu equipo decide campear el spawn en el primer punto en Dorado, estar en altura a un kilómetro de distancia y fuera de la línea de visión no será de mucha ayuda. Posicionarte con tus compañeros es más importante que tu posicionamiento personal en el mapa. Trata de usar ambas e integrarlas lo más posible.
 
 
-- Cuando una batalla termina **retírate y no titubees**.
+- Cuando en una batalla tu equipo es derrotado, **retírate y no titubees**.
 
-  - Si no puedes, dispara y obtén carga de ulti, pero muere ante el enemigo o con el entorno (lanzarse fuera del mapa) lo más rápido posible.
+  - Si no puedes retirarte, dispara y obtén carga de ulti, pero muere ante el enemigo o con el entorno (lanzarse fuera del mapa) lo más rápido posible.
 
-  - Si ya tienes ulti, suicídate con el entorno lo más rápido posible para evitar que tus enemigos consigan carga de ulti.
+  - Si ya tienes ulti, suicídate con el entorno lo más rápido posible para evitar que tus enemigos consigan carga de ulti al matarte.
 
   - Que te atrapen y mueras (o te saquen del meka) mucho después de una batalla puede desperdiciar valioso tiempo para tu equipo, y equipos impacientes van a iniciar una enfrentamiento sin ti. Esto comienza un ciclo de batallas que inician sin todos los jugadores, resultando en una situación completamente *inganable*.
 
