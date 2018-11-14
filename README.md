@@ -194,8 +194,7 @@ Y ahora, sin mucho más que agregar:
   - Algunas veces sí mueres porque tus healers no están heleando (las miro a ustedes, Moiras DPS), pero no puedes controlarlo, trata de arreglártelas como puedas. En la mayoría de los casos los healers solo quieren helear, pero algo se los impide.
 
 
-
- ## Mentalidad
+## Mentalidad
 
 - Evita jugar cuando estás molesto.
 
