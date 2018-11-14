@@ -16,16 +16,16 @@ Y ahora, sin mucho más que agregar:
 
 ## El Juego
 
-### Mantente vivo y consigue kills.
+### - Mantente vivo y consigue kills.
 
-### **Revisa constantemente el listado de kills**.
+### - **Revisa constantemente el listado de kills**.
 
 - Apenas tengas un jugador menos en la batalla que tu enemigo, prepárate para retirarte si no retoman la ventaja rápidamente.
 
 - Retírate apenas tengas dos jugadores menos relativo al enemigo. La batalla está casi siempre perdida en este caso. Sin embargo, intenta conseguir kills mientras lo haces. Si muchos enemigos están bajos de HP la batalla aún podría ser ganable. Tienes que hacer una evaluación caso a caso en cada batalla.
 
 
-### El trabajo en equipo hará que todo funcione como en tus sueños.
+### - El trabajo en equipo hará que todo funcione como en tus sueños.
 
 - Ningún desempeño individual de un jugador importa mucho en el transcurso general de una partida. La única y más importante clave para ganar en Overwatch es el trabajo en equipo. Literalmente todo lo demás es una pequeñez en comparación. Una partida se puede decidir antes de que se seleccione algún héroe si un equipo tiene jugadores que tienen un estilo de juego similar y una cohesión natural. El camino para lograr esto es hacer un esfuerzo como equipo para focusear enemigos y combinar ultis. Solo dos jugadores coordinando es todo lo que se necesita para obtener la ventaja en un combate.
 
@@ -34,7 +34,7 @@ Y ahora, sin mucho más que agregar:
 - Coordinación no necesariamente significa que todos están en el mismo lugar y avanzando como una bola de la muerte. Enfrentar al enemigo divididos en grupos de 2 y 4 o 1 y 5 pueden crear aperturas. La coordinación en Overwatch se trata más de sincronización y focusear enemigos.
 
 
-### Casi nunca inicies una batalla con desventaja de jugadores.
+### - Casi nunca inicies una batalla con desventaja de jugadores.
 
 - No inicies una batalla con el enemigo con menos jugadores de los que ellos tienen.
 
@@ -45,7 +45,7 @@ Y ahora, sin mucho más que agregar:
 - La única excepción es overtime. Haz lo posible por permanecer con vida, tocar el punto, mantener otros compañeros vivos, y lograr un kill, en ese orden.
 
 
-### Mantente con tu equipo.
+### - Mantente con tu equipo.
 
 - Si no puedes ver a ninguno de tus compañeros y no eres un flanker, algo está mal.
 
@@ -56,7 +56,7 @@ Y ahora, sin mucho más que agregar:
 - Conocer posicionamiento de alto nivel y estar en la posición ideal es genial si tu equipo lo hace también. No obstante, si todo tu equipo decide campear el spawn en el primer punto en Dorado, estar en altura a un kilómetro de distancia y fuera de la línea de visión no será de mucha ayuda. Posicionarte con tus compañeros es más importante que tu posicionamiento personal en el mapa. Trata de usar ambas e integrarlas lo más posible.
 
 
-### Cuando en una batalla tu equipo es derrotado, **retírate y no titubees**.
+### - Cuando en una batalla tu equipo es derrotado, **retírate y no titubees**.
 
 - Si no puedes retirarte, dispara y obtén carga de ulti, pero muere ante el enemigo o con el entorno (lanzarse fuera del mapa) lo más rápido posible.
 
@@ -65,37 +65,37 @@ Y ahora, sin mucho más que agregar:
 - Que te atrapen y mueras (o te saquen del meka) mucho después de una batalla puede desperdiciar valioso tiempo para tu equipo, y equipos impacientes van a iniciar una enfrentamiento sin ti. Esto comienza un ciclo de batallas que inician sin todos los jugadores, resultando en una situación completamente *inganable*.
 
 
-### Comprende los tiempos apropiados para usar tu ulti.
+### - Comprende los tiempos apropiados para usar tu ulti.
 
 - Usa tu ulti para iniciar batallas. Esperar hasta la mitad de la batalla para usarlo deja espacio a que el equipo enemigo use un ulti antes o mate uno de los tuyos, y entonces tendrás que reiniciar en una nueva batalla.
 
 - Usa el ulti de otros de forma reactiva, como la mayoría de los ultis de soportes cuando tu equipo está bajo, o para dar vuelta la batalla a tu favor cuando matan a uno de tus compañeros.
 
 
-### Combina ultis siempre que sea posible.
+### - Combina ultis siempre que sea posible.
 
 - Esto puede permitir excepciones a la regla de "tener menos de 2 jugadores". Un buen ulti, o combinación de ultis pueden ganar cualquier batalla, siempre y cuando haya suficientes jugadores para continuar apropiadamente.
 
 
-### *Nunca* inviertas un ulti en una batalla perdida.
+### - *Nunca* inviertas un ulti en una batalla perdida.
 
 - Esto implica saber cuando una batalla está perdida. Si la mitad de tu equipo está muerto, no ultees. No puedes ganar.
 
 
-### Por otro lado, casi nunca uses un ulti cuando la batalla está ganada.
+### - Por otro lado, casi nunca uses un ulti cuando la batalla está ganada.
 
 - Una buena regla a seguir es usar a menudo un ulti cuando tienes un jugador más de ventaja, raramente y solo si es necesario cuando tienes dos de ventaja y nunca cuando tienes tres.
 
 - El uso de un ulti es extremadamente complejo. Estos puntos deben usarse más como guías que como reglas. El aviso de la introducción sobre las excepciones aplica fuertemente aquí.
 
 
-### En ataque, a veces es conveniente enfrentarse en una batalla sin la intención de usar ningún ulti, para hacer que tu enemigo gaste los suyos, y para que tus compañeros ganen carga de ulti. Esto se llama una lucha seca (dry fight en inglés).
+### - En ataque, a veces es conveniente enfrentarse en una batalla sin la intención de usar ningún ulti, para hacer que tu enemigo gaste los suyos, y para que tus compañeros ganen carga de ulti. Esto se llama una lucha seca (dry fight en inglés).
 
 
-### No aguantes tu ulti por mucho tiempo. Está bien a veces ir por una jugada de alto riesgo con alto impacto. Puedes regenerar tu ulti luego.
+### - No aguantes tu ulti por mucho tiempo. Está bien a veces ir por una jugada de alto riesgo con alto impacto. Puedes regenerar tu ulti luego.
 
 
-### No necesitas obtener un team-kill con cada ulti para hacer que valga la pena.
+### - No necesitas obtener un team-kill con cada ulti para hacer que valga la pena.
 
 - Si esperas para la oportunidad perfecta para capturar a 6 con Graviton o EMP, terminarás ulteando alrededor de dos veces por semana.
 
@@ -104,7 +104,7 @@ Y ahora, sin mucho más que agregar:
 - No tienes que siempre lograr kills con tu ulti para que sea útil, aunque sí ayuda. Algunos ultis como Auto destrucción de D.va pueden ser usados para forzar a los enemigos en posiciones donde pueden ser eliminados más fácilmente. Usar Dragonblade (Genji) como señuelo para Trascendencia (Zeny) enemigo y que tu Zarya pueda usar Graviton para terminar la batalla es un buen ejemplo.
 
 
-### NO USAR ULTIS EN EXCESO.
+### - NO USAR ULTIS EN EXCESO.
 
 - Si tienen seis ultis antes que la batalla comience, prepárate para que tus compañeros usen el suyo. Si son efectivos *guarda el tuyo*.
 
@@ -117,7 +117,7 @@ Y ahora, sin mucho más que agregar:
 - Cuando juegues de soporte, haz lo mejor posible para no usar dos ultis de soporte a la vez. La comunicación es clave aquí, así como también saber qué ulti de soporte es más útil en ciertas situaciones, y usar ese conocimiento para planear el uso de tu ulti y el de tu compañero. Por ejemplo, Trascendencia es mejor que Barrera de Sonido para *counterear* Graviton, pero Barrera de Sonido puede counterear RIP Tire de  Junkrat (si es coordinado correctamente).
 
 
-### No se queden pegados en el cuello de botella. Presionen W cobardes.
+### - No se queden pegados en el cuello de botella. Presionen W cobardes.
 
 - La indecisión es un problema gigantesco en los rangos inferiores. Hacer un plan malo es mejor que no hacer plan.
 
@@ -126,7 +126,7 @@ Y ahora, sin mucho más que agregar:
 - Esto no siempre significa enfrentar al enemigo directamente. A veces significa solo lograr un mejor posicionamiento para tener la ventaja, y luego enfrentarse al enemigo.
 
 
-### Está bien no estar combatiendo o disparando en ciertos momentos.
+### - Está bien no estar combatiendo o disparando en ciertos momentos.
 
 - Esconderse y esperar a que tu equipo vuelva no solo es el accionar correcto a veces, es casi siempre el mejor camino para recuperarse tras una batalla perdida.
 
@@ -135,7 +135,7 @@ Y ahora, sin mucho más que agregar:
 - Puedes usar este tiempo para planear, crear estrategias y buscar una mejor posición. Minimiza el riesgo y aumenta tus ventajas tanto como sea posible antes de la próxima batalla.
 
 
-### La clave para ganar batallas es hacer lo correcto cuando corresponda.
+### - La clave para ganar batallas es hacer lo correcto cuando corresponda.
 
 - El objetivo de flankear es enfrentar al enemigo al mismo tiempo que tu equipo pero desde otro dirección. Molestar (hacer un pequeño daño rápidamente) aleatoriamente sus líneas traseras para iniciar puede crear una apertura, pero si tu equipo no está listo entonces no tiene sentido.
 
@@ -144,29 +144,29 @@ Y ahora, sin mucho más que agregar:
 - La composición Dive solo es buena si es ejecutada apropiadamente y con cierta cantidad de coordinación. La mayoría de los héroes de Dive hacen poco daño, pero son buenos en llegar a ciertos lugares rápidamente para concentrarse en un enemigo al mismo tiempo. (Si alguna vez escuchas a alguien diciendo "necesitamos más daño", están normalmente mostrando su ignorancia. Nueve de cada diez veces no necesitas un Bastion o Junkrat, necesitas concentración del daño).
 
 
-### Entiende las debilidades de los héroes y hace cambios cuando sea necesario.
+### - Entiende las debilidades de los héroes y hace cambios cuando sea necesario.
 
 - Por ejemplo, no juegues héroes de corto rango y baja movilidad contra largo alcance. Jugar Reaper o Junkrat contra Widowmaker o Pharah sin respaldo es derechamente estúpido.
 
 - Si juegas un héroe que es fácil hacerle Dive como McCree o Zenyatta y no recibes el soporte que crees que mereces, cambia a algo con mas supervivencia y deja de quejarte.
 
 
-### Trata de aprender la diferencia entre una falla en una composición de equipo y una falla en la ejecución. Cambiar de héroe demasiado o en un momento incorrecto puede resultar en una pérdida vital de carga de ulti que es esencial para ganar.
+### - Trata de aprender la diferencia entre una falla en una composición de equipo y una falla en la ejecución. Cambiar de héroe demasiado o en un momento incorrecto puede resultar en una pérdida vital de carga de ulti que es esencial para ganar.
 
 
-### Solo puedes tomar el punto o mover la carga cuando todos los enemigos están muertos. Si la carga o el punto no es el lugar ideal para un hacer un combate, entonces hazlo en otro lado.
+### - Solo puedes tomar el punto o mover la carga cuando todos los enemigos están muertos. Si la carga o el punto no es el lugar ideal para un hacer un combate, entonces hazlo en otro lado.
 
 - Sólo llama a "ir al punto/carga" si es ventajoso. Gana la batalla en otro lugar si es necesario y luego toma el punto.
 
 - Si es overtime, gritar "toquen el punto!" cuando todo tu equipo está muerto es un poco irritante, ya que todos saben cual es el objetivo. (Lo peor es cuando la gente se irrita cuando los demás no tocan el punto y no era realmente posible hacerlo).
 
 
-### Tres sobre la carga no es siempre lo correcto.
+### - Tres sobre la carga no es siempre lo correcto.
 
 - A menudo, tener sólo a una persona en la carga y a todos los demás avanzando y tomando ventaja del spawn tardío, ganar un mejor posicionamiento para la siguiente batalla, y aprovechar la ventaja permite mover la carga más lejos al prevenir una batalla sobre el punto, y en teoría prevenir un estancamiento. Esto se llama "tomar control del mapa".
 
 
-### "La comunicación es tu habilidad más poderosa, y no tiene cooldown" -Yo
+### - "La comunicación es tu habilidad más poderosa, y no tiene cooldown" -Yo
 
 - Se claro y conciso en tu comunicación. El tipo de información que tu equipo necesita saber es quien está bajo en el otro equipo, quien necesita sanación en tu equipo, a quien *focusear*, cuando retirarse, que ultis usar en la próxima batalla, y que ultis tienen los oponentes.
 
@@ -175,19 +175,19 @@ Y ahora, sin mucho más que agregar:
 - Macro-administración sobre micro-administración.
 
 
-### Aunque la comunicación puede ser extremadamente valiosa, también puede ser inútil o incluso perjudicial.
+### - Aunque la comunicación puede ser extremadamente valiosa, también puede ser inútil o incluso perjudicial.
 
 - Si todo lo que alguien hace es decir "que mierda?" o "vamos!" o sólo haciendo exclamaciones, considera mutearlo por tu propia paz mental.
 
 
-### Aprende a hacer *peel* a tus compañeros.
+### - Aprende a hacer *peel* a tus compañeros.
 
 - Peel significa quitar la atención de un oponente sobre uno de tus compañeros, o helearlo para mantenerlo vivo. Puede ser una Mercy dedicando su heal/daño a Zenyatta, o D.va usando Matrix en un McCree aliado que está ulteando.
 
 - Mantente alerta del jugador más peligroso del equipo enemigo, y observa a tus compañeros más frágiles. Cualquier personaje que tenga baja movilidad y supervivencia debe tenerse en mente. Si estás usando un personaje con cancelación de daño o capacidad de helear, mantén un ojo sobre la línea trasera (back line en inglés).
 
 
-### Al pasar muriendo o no ser heleado, puede ser que el problema seas tú.
+### - Al pasar muriendo o no ser heleado, puede ser que el problema seas tú.
 
 - Si no estás recibiendo heal, considera quedarte más con tus healers. Si te estás sobre extendiendo o quedando fuera de la línea de visión (LOS en inglés), significa que es tu culpa. Si los healers no te quieren seguir porque estás campeando el spawn enemigo solo, es tu culpa. Si tus healers están constantemente siendo atacados (dive), no es exactamente tu culpa pero puedes participar activamente para prevenir que suceda.
 
@@ -196,7 +196,7 @@ Y ahora, sin mucho más que agregar:
 
 ## Mentalidad
 
-### Evita jugar cuando estás molesto.
+### - Evita jugar cuando estás molesto.
 
 - Estar molesto significa que tus emociones están impactando tu jugabilidad de una forma negativa. Esto no significa necesariamente rabia o frustración, pero a menudo sí lo es. Estar sobreexcitado o escuchar música muy emocional o hiperventilada puede provocar el mismo efecto.
 
@@ -207,7 +207,7 @@ Y ahora, sin mucho más que agregar:
 - La composición del equipo es menos importante que no molestarse por la composición. En todos los rangos menores a masters (o quizás más alto), una buena composición es menos importante que tener a todos jugando con lo que saben y teniendo algún nivel de coordinación. Un equipo con cinco jugadores en daño jugando los roles con los que están más cómodos y avisando los targets (*target calling*) lo harán mejor que un perfecto 2-2-2 con jugadores usando tanques y healers en roles en los que nunca han jugado en su vida.
 
 
-### No molestes a tus compañeros.
+### - No molestes a tus compañeros.
 
 - No seas tóxico.
 
@@ -226,7 +226,7 @@ Y ahora, sin mucho más que agregar:
 - No hagas micro-administración. Decirle a alguien como jugar su rol en medio de una partida solo te distrae y frustra a los demás.
 
 
-### Aprende a aceptar tus derrotas.
+### - Aprende a aceptar tus derrotas.
 
 - Por muy cliché que suene, Overwatch es un juego. Hay once otros jugadores y un mapa afectando el resultado de la partida. Habrán ocasiones en que no importa cuánto te esfuerces, perderás de todos modos. Solo has lo mejor posible en cada partida, incluso cuando tu equipo sea terrible. El único rendimiento que debería importarte es el tuyo mismo.
 
@@ -237,7 +237,7 @@ Y ahora, sin mucho más que agregar:
 - No te fijes demasiado en tus derrotas. Sin embargo, absolutamente refléjate en qué te equivocaste cuando perdiste, y haz notas mentales en cómo mejorar para la siguiente partida. Si realmente estás molesto por una derrota, tómate unos minutos, da un paseo, toma una bebida o snack, y luego vuelve.
 
 
-### Preocuparte por tu SR es una buena forma de enojarse.
+### - Preocuparte por tu SR es una buena forma de enojarse.
 
 - Si estás jugando bien y aún perdiendo SR, o has tenido una racha de mala suerte que va terminar pronto, o no eres tan bueno como piensas que eres.
 
@@ -248,17 +248,17 @@ Y ahora, sin mucho más que agregar:
 - Si estás nervioso de jugar competitivo, la única forma de superarlo es jugar competitivo. Es sólo una partida rápida con unos números agregados.
 
 
-### Ten cuidado cuando escribes "gg". Si te das cuenta que solo lo escribes cuando ganas, reconsidera no escribirlo en absoluto. Escribirlo cuando ganas después de destruir a tus oponentes por completo es casi de mala educación. Si el lado perdedor lo dice primero, está bien responder. Nunca escribas "gg" antes que termine la partida. Es derechamente ser una escoria, no importa en qué lado estás.
+### - Ten cuidado cuando escribes "gg". Si te das cuenta que solo lo escribes cuando ganas, reconsidera no escribirlo en absoluto. Escribirlo cuando ganas después de destruir a tus oponentes por completo es casi de mala educación. Si el lado perdedor lo dice primero, está bien responder. Nunca escribas "gg" antes que termine la partida. Es derechamente ser una escoria, no importa en qué lado estás.
 
 
-### No te sorprendas si tus compañeros no siguen, o siquiera entienden estas reglas.
+### - No te sorprendas si tus compañeros no siguen, o siquiera entienden estas reglas.
 
 - Ser tóxico porque la gente no tiene una compresión básica del juego no tiene sentido.
 
 - Aprende a cómo arreglártelas con idiotas que no leen esta guía. Asume que no te van a ayudar para recibir una placentera sorpresa cuando las cosas salgan bien.
 
 
-### Decide la razón por la que juegas.
+### - Decide la razón por la que juegas.
 
 - **Haz lo que puedas para divertirte si ese es tu objetivo :)** (Sin ser un trol por supuesto).
 
