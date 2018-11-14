@@ -158,7 +158,7 @@ Y ahora, sin mucho más que agregar:
 
 - Sólo llama a "ir al punto/carga" si es ventajoso. Gana la batalla en otro lugar si es necesario y luego toma el punto.
 
-- Si es overtime, gritar "toquen el punto!" cuando todo tu equipo está muerto es un poco irritante, ya que todos saben cual es el objetivo. (Lo peor es cuando la gente se irrita cuando la los demás no tocan el punto y no era realmente posible hacerlo).
+- Si es overtime, gritar "toquen el punto!" cuando todo tu equipo está muerto es un poco irritante, ya que todos saben cual es el objetivo. (Lo peor es cuando la gente se irrita cuando los demás no tocan el punto y no era realmente posible hacerlo).
 
 
 ### Tres sobre la carga no es siempre lo correcto.
